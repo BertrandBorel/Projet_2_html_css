@@ -16,3 +16,23 @@ Le bouton "Envoyer et continuer" est aligné sur le formulaire, ce qui fait qu'i
 De plus, le formulaire ne fait que de la figuration : les données ne sont enregistrées nulle part. 
 
 -------------------------------------------------------------------------------------------------------
+
+Utilisation du site :
+
+
+Constitué de 3 pages :
+  - une page d'accueil (renvoyant vers les dons)
+  - une page de don (renvoyant vers l'accueil)
+  - une page avec un message de remerciement (censé s'afficher lorsque le don a été effectué)
+
+La navigation se fait de la page d'accueil à la page de don et inversement. 
+
+
+Le formulaire prend pour informations :
+  - Nom
+  - Prénom
+  - E-mail
+  - Adresse
+  - Votre don
+
+Il faut que l'utilisateur coche une case signifiant qu'il accepte les conditions générales avant d'effectuer le don en question. 
