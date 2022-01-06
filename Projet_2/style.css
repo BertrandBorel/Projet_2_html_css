@@ -1,0 +1,22 @@
+#mapage{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    background-color: yellow;
+    padding-bottom: 50px;
+}
+
+.bouton a {
+    margin: 0 auto;  
+    display:block;
+    width:150px;
+    line-height:50px;
+    text-align:center;
+    vertical-align:middle;
+    background:url(bouton.png) no-repeat;
+    color:white;
+    text-decoration:none;
+    }
+    .bouton a:hover {
+    background:url(bouton.png) no-repeat;
+    }
