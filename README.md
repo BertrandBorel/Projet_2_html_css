@@ -1,6 +1,14 @@
 # Projet_2
 Rendu du projet_2, "Une page de promesse de don"
-Dernière mise à jour : 06/01/2022
+Première version : 06/01/2022
+Dernière mise à jour : 08/01/2022
+---------------------------------------------------------------------------------------------------
+
+MISE A JOUR du 08/01/2022
+
+changement :
+ - Ajout d'un bouton sur la page de remerciement. Il renvoit désormais vers l'accueil. 
+
 ---------------------------------------------------------------------------------------------------
 
 Notes : 
